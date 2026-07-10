@@ -3,8 +3,6 @@
 <br>
 한글 문자에서는 하나의 글리프 컴포넌트를 참조하는 글리프의 수와 빈도가 많아 컴포넌트를 참조한 문자가 어떻게 변하고 연속성이 있는지 보는데 있는 장점 보다도 수많은 오버레이가 겹쳐져 마치 구름처럼 편집중인 글자를 식별하는데 방해하는 경우가 있습니다.
 <br>
-Glyphs에서 기본 기능으로 제공하지 않는 이 기능을 토글할 수 있도록 메뉴에 토글 옵션을 추가합니다.
-<br>
 <br>
 
 
@@ -22,3 +20,6 @@ Glyphs에서 기본 기능으로 제공하지 않는 이 기능을 토글할 수
 설치 후 재시작했을때 **View → Hide Hangul Clouds**가 보이면 제대로 설치가 완료된 것입니다.
 <br>
 해당 옵션을 끄고 켜서 사용하면 됩니다.
+
+# English
+When editing Hangul components, component clouds appear frequently. While this preview can be useful, seeing too many clouds at once can become overwhelming and clutter your edit view. This plugin allows you to easily toggle them on and off.
