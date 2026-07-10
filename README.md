@@ -20,6 +20,8 @@
 설치 후 재시작했을때 **View → Hide Hangul Clouds**가 보이면 제대로 설치가 완료된 것입니다.
 <br>
 해당 옵션을 끄고 켜서 사용하면 됩니다.
+<br>
+<br>
 
 # English
 When editing Hangul components, component clouds appear frequently. While this preview can be useful, seeing too many clouds at once can become overwhelming and clutter your edit view. This plugin allows you to easily toggle them on and off.
