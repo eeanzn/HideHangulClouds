@@ -11,12 +11,11 @@
 <br>
 
 
-## 설치 방법
-> Glyphs 앱 내 Plugin Manager에서 다운로드 하여 설치할 수 있도록 작업 중입니다.
-- 'HideHangulClouds.glyphsPlugin'을 실행하여 설치합니다. 그 후 재시작합니다.
+## 설치
+- Glyphs 앱 내 Plugin Manager에서 다운로드 하여 설치합니다.
 <br>
 
-## 사용 방법
+## 사용
 설치 후 재시작했을때 **View → Hide Hangul Clouds**가 보이면 제대로 설치가 완료된 것입니다.
 <br>
 해당 옵션을 끄고 켜서 사용하면 됩니다.
