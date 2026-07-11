@@ -1,3 +1,5 @@
+<img src=".imgs/whatisHideHangulClouds.webp">
+
 # 개요
 한글 문자를 컴포넌트로 사용할 경우 편집창에서 빈번히 나타나는 한글 구름을 토글하여 필요에 따라 끄고 켤 수 있게 해줍니다.
 <br>
